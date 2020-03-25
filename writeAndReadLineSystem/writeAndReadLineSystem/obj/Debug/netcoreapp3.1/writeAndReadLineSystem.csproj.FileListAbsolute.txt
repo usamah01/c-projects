@@ -1,0 +1,11 @@
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\bin\Debug\netcoreapp3.1\writeAndReadLineSystem.exe
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\bin\Debug\netcoreapp3.1\writeAndReadLineSystem.deps.json
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\bin\Debug\netcoreapp3.1\writeAndReadLineSystem.runtimeconfig.json
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\bin\Debug\netcoreapp3.1\writeAndReadLineSystem.runtimeconfig.dev.json
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\bin\Debug\netcoreapp3.1\writeAndReadLineSystem.dll
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\bin\Debug\netcoreapp3.1\writeAndReadLineSystem.pdb
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\obj\Debug\netcoreapp3.1\writeAndReadLineSystem.csprojAssemblyReference.cache
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\obj\Debug\netcoreapp3.1\writeAndReadLineSystem.AssemblyInfoInputs.cache
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\obj\Debug\netcoreapp3.1\writeAndReadLineSystem.AssemblyInfo.cs
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\obj\Debug\netcoreapp3.1\writeAndReadLineSystem.dll
+C:\Users\ubaid\source\repos\writeAndReadLineSystem\writeAndReadLineSystem\obj\Debug\netcoreapp3.1\writeAndReadLineSystem.pdb
