@@ -1,0 +1,11 @@
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.exe
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.deps.json
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.runtimeconfig.json
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.runtimeconfig.dev.json
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.dll
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.pdb
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.csprojAssemblyReference.cache
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.AssemblyInfoInputs.cache
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.AssemblyInfo.cs
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.dll
+C:\Users\ubaid\source\repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.pdb
