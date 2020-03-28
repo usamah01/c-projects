@@ -1,0 +1,11 @@
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\bin\Debug\netcoreapp3.1\dataTypeConversion.exe
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\bin\Debug\netcoreapp3.1\dataTypeConversion.deps.json
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\bin\Debug\netcoreapp3.1\dataTypeConversion.runtimeconfig.json
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\bin\Debug\netcoreapp3.1\dataTypeConversion.runtimeconfig.dev.json
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\bin\Debug\netcoreapp3.1\dataTypeConversion.dll
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\bin\Debug\netcoreapp3.1\dataTypeConversion.pdb
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\obj\Debug\netcoreapp3.1\dataTypeConversion.csprojAssemblyReference.cache
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\obj\Debug\netcoreapp3.1\dataTypeConversion.AssemblyInfoInputs.cache
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\obj\Debug\netcoreapp3.1\dataTypeConversion.AssemblyInfo.cs
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\obj\Debug\netcoreapp3.1\dataTypeConversion.dll
+C:\Users\ubaid\source\repos\dataTypeConversion\dataTypeConversion\obj\Debug\netcoreapp3.1\dataTypeConversion.pdb
