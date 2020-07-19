@@ -1,0 +1,11 @@
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\obj\Debug\netcoreapp3.1\HelloWorld.UI.csprojAssemblyReference.cache
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\obj\Debug\netcoreapp3.1\HelloWorld.UI.AssemblyInfoInputs.cache
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\obj\Debug\netcoreapp3.1\HelloWorld.UI.AssemblyInfo.cs
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\bin\Debug\netcoreapp3.1\HelloWorld.UI.exe
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\bin\Debug\netcoreapp3.1\HelloWorld.UI.deps.json
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\bin\Debug\netcoreapp3.1\HelloWorld.UI.runtimeconfig.json
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\bin\Debug\netcoreapp3.1\HelloWorld.UI.runtimeconfig.dev.json
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\bin\Debug\netcoreapp3.1\HelloWorld.UI.dll
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\bin\Debug\netcoreapp3.1\HelloWorld.UI.pdb
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\obj\Debug\netcoreapp3.1\HelloWorld.UI.dll
+C:\Users\ubaid\source\repos\HelloWorld\HelloWorld.UI\obj\Debug\netcoreapp3.1\HelloWorld.UI.pdb

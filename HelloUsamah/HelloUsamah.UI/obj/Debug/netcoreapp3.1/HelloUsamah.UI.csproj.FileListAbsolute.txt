@@ -1,0 +1,10 @@
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\bin\Debug\netcoreapp3.1\HelloUsamah.UI.exe
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\bin\Debug\netcoreapp3.1\HelloUsamah.UI.deps.json
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\bin\Debug\netcoreapp3.1\HelloUsamah.UI.runtimeconfig.json
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\bin\Debug\netcoreapp3.1\HelloUsamah.UI.runtimeconfig.dev.json
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\bin\Debug\netcoreapp3.1\HelloUsamah.UI.dll
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\bin\Debug\netcoreapp3.1\HelloUsamah.UI.pdb
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\obj\Debug\netcoreapp3.1\HelloUsamah.UI.AssemblyInfoInputs.cache
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\obj\Debug\netcoreapp3.1\HelloUsamah.UI.AssemblyInfo.cs
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\obj\Debug\netcoreapp3.1\HelloUsamah.UI.dll
+C:\Users\ubaid\source\repos\HelloUsamah\HelloUsamah.UI\obj\Debug\netcoreapp3.1\HelloUsamah.UI.pdb
